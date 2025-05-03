@@ -6,26 +6,26 @@ const projects = [
   {
     title: 'Contact Manager',
     description: 'A comprehensive contact management application that allows users to add, edit, delete, and organize their contacts. Features include contact categorization, search functionality, and data persistence.',
-    image: '/projects/contact-manager.jpg',
+    image: '/contactmanager.jpg',
     technologies: ['JavaScript', 'HTML5', 'CSS3', 'Local Storage'],
     github: 'https://github.com/shankarkasala/contactsamanager',
-    live: 'https://shankarkasala.github.io/contactsamanager/',
+    live: 'https://gregarious-belekoy-40d7e5.netlify.app/',
   },
   {
     title: 'Shopping Cart',
     description: 'An e-commerce shopping cart application with features like product listing, cart management, quantity updates, and total calculation. Demonstrates modern web development practices and user interface design.',
-    image: '/projects/shopping.jpg',
+    image: '/shoppy.jpg',
     technologies: ['JavaScript', 'HTML5', 'CSS3', 'DOM Manipulation'],
     github: 'https://github.com/shankarkasala/shopping',
-    live: 'https://shankarkasala.github.io/shopping/',
+    live: 'https://shoppy-shoppy.netlify.app/',
   },
   {
     title: 'Todo List',
     description: 'A feature-rich todo list application with task management capabilities including adding, editing, deleting tasks, marking tasks as complete, and filtering tasks by status.',
-    image: '/projects/todo.jpg',
+    image: '/todo.jpg',
     technologies: ['JavaScript', 'HTML5', 'CSS3', 'Local Storage'],
     github: 'https://github.com/shankarkasala/ToDo_list-JS-HTML-CSS-',
-    live: 'https://shankarkasala.github.io/ToDo_list-JS-HTML-CSS-/',
+    live: 'https://mytodolistappsite.netlify.app/',
   },
 ]
 
